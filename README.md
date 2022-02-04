@@ -1,2 +1,3 @@
 # Biostatistical-Analysis-R-Population-Health
-Biostatistical analysis of the dataset of Indian population health.
+- Analyzed the dataset of Indian population health in R.
+- Computed Lethality, Mortality and Sum of Cases of female pneumonia cases and found correlation with population density.
